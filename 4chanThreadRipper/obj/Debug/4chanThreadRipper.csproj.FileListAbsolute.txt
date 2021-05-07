@@ -1,0 +1,11 @@
+C:\Users\f.stellmann\Source\repos\4chanThreadRipper\4chanThreadRipper\bin\Debug\4chanThreadRipper.exe.config
+C:\Users\f.stellmann\Source\repos\4chanThreadRipper\4chanThreadRipper\bin\Debug\4chanThreadRipper.exe
+C:\Users\f.stellmann\Source\repos\4chanThreadRipper\4chanThreadRipper\bin\Debug\4chanThreadRipper.pdb
+C:\Users\f.stellmann\Source\repos\4chanThreadRipper\4chanThreadRipper\obj\Debug\_4chanThreadRipper.Properties.Resources.resources
+C:\Users\f.stellmann\Source\repos\4chanThreadRipper\4chanThreadRipper\obj\Debug\4chanThreadRipper.csproj.GenerateResource.cache
+C:\Users\f.stellmann\Source\repos\4chanThreadRipper\4chanThreadRipper\obj\Debug\4chanThreadRipper.csproj.CoreCompileInputs.cache
+C:\Users\f.stellmann\Source\repos\4chanThreadRipper\4chanThreadRipper\obj\Debug\4chanThreadRipper.exe
+C:\Users\f.stellmann\Source\repos\4chanThreadRipper\4chanThreadRipper\obj\Debug\4chanThreadRipper.pdb
+C:\Users\f.stellmann\Source\repos\4chanThreadRipper\4chanThreadRipper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\f.stellmann\Source\repos\4chanThreadRipper\4chanThreadRipper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\f.stellmann\Source\repos\4chanThreadRipper\4chanThreadRipper\obj\Debug\4chanThreadRipper.csproj.CopyComplete
